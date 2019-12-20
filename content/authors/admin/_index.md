@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Hamzeh Khazaei
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor, Electrical Engineering and Computer Science Department  
+        
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +19,26 @@ organizations:
   url: "https://www.yorku.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed systems, cloud computing, performance modeling and autonomic computing.
 
 interests:
 - Cloud Computing
 - Performance Modeling
 - Distributed Systems
+- Autonomic Computing
+- Software Engineering
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Stanford University
+    institution: University of Manitoba
     year: 2013
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Computer Science
+    institution: Amirkabir University of Technology
     year: 2008
+  - course: BSc in Computer Science
+    institution: Amirkabir University of Technology
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +47,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:hkh@yorku.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HamzehKhazaei
@@ -61,15 +65,24 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hkh@yorku.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
+- PhD Students
+- MSc Students
+- Postdocs
+- BSc Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor of computer science at York University. I lead 
+the <a href="https://pacs.eecs.yorku.ca" target="_blank"> Performant and Available Computing Systems (PACS) Lab</a> 
+in which we analyze, model and design dependable software systems. If you are a prospective applicant or interested 
+to learn more about my work please check the <a href="https://pacs.eecs.yorku.ca" target="_blank"> PACS Lab</a> page.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 
+
+
