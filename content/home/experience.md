@@ -2,8 +2,8 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Professor"
+  company = "York University"
+  company_url = "https://www.yorku.ca"
+  location = "Toronto, Ontario"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Performant and Available Software Systems."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Professor"
+  company = "University of Alberta"
+  company_url = "https://www.ualberta.ca"
+  location = "Edmonton, Alberta"
+  date_start = "2017-09-01"
+  date_end = "2019-08-31"
+  description = """Software Engineering and Smart Systems."""
+
+[[experience]]
+  title = "Research Associate"
+  company = "University of Toronto"
+  company_url = "https://www.utoronto.ca"
+  location = "Toronto, Ontario"
+  date_start = "2016-09-01"
+  date_end = "2017-08-31"
+  description = """Self-Managing Internet of Things Platforms."""
+  
+  [[experience]]
+  title = "Research Scientist"
+  company = "IBM"
+  company_url = "https://www.ibm.com"
+  location = "Markham, Ontario"
+  date_start = "2013-09-01"
+  date_end = "2016-08-31"
+  description = """Big Data Systems in Health Informatics."""
 
 +++
