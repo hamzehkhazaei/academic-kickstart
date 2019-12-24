@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Toronto, Ontario"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Performant and Available Software Systems."""
+  description = """Department of Electrical Engineering and Compute Science."""
 
 [[experience]]
   title = "Assistant Professor"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Edmonton, Alberta"
   date_start = "2017-09-01"
   date_end = "2019-08-31"
-  description = """Software Engineering and Smart Systems."""
+  description = """Department of Electrical and Computer Engineering."""
 
 [[experience]]
   title = "Research Associate"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Toronto, Ontario"
   date_start = "2016-09-01"
   date_end = "2017-08-31"
-  description = """Self-Managing Internet of Things Platforms."""
+  description = """Department of Electrical and Computer Engineering."""
   
   [[experience]]
   title = "Research Scientist"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Markham, Ontario"
   date_start = "2013-09-01"
   date_end = "2016-08-31"
-  description = """Big Data Systems in Health Informatics."""
+  description = """Canada Research and Development Center."""
 
 +++
