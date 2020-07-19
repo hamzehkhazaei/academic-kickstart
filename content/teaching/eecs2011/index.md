@@ -4,13 +4,13 @@ summary: Fundamentals of Data Structure (F2020)
 
 tags:
 - undergrad
-date: "2018-01-01T00:00:00Z"
+date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Fundumentals of Data Structure
+  caption: Fundamentals of Data Structure
   focal_point: Smart
 
 # links:
