@@ -1,6 +1,6 @@
 ---
 title: EECS 2011
-summary: Data Structure
+summary: Fundamentals of Data Structure (F2020)
 
 tags:
 - undergrad
@@ -10,7 +10,7 @@ date: "2018-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Data Structure
+  caption: Fundumentals of Data Structure
   focal_point: Smart
 
 # links:
@@ -30,6 +30,8 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Coming Soon.   
-This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer 
-system where the state of the program is divided over more than one machine (or "node").
+
+This course discusses the fundamental data structures commonly used in the design of algorithms. 
+At the end of this course, students will know the classical data structures, and master the use of abstraction, 
+specification and program construction using modules. Furthermore, students will be able to apply these skills 
+effectively in the design and implementation of algorithms.

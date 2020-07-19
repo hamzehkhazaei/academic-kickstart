@@ -1,6 +1,6 @@
 ---
 title: EECS 4XXX
-summary: Distributed Systems  (Fall 2021).
+summary: Distributed Systems  (TBA).
 
 tags:
 - undergrad
@@ -30,6 +30,7 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 Coming Soon.   
 This is an introductory course in Distributed Systems. Distributed systems is the study of how to build a computer 
 system where the state of the program is divided over more than one machine (or "node").

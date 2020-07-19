@@ -39,10 +39,10 @@ fields:
   type: list
   config:
     use_select: false
-    min: 
-    max: 
+    min:
+    max:
   label: projects
-  description: Associate this content with a project by entering a project folder
+  description: Associate this content with a teaching by entering a teaching folder
     name
 - name: featured
   type: boolean

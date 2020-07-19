@@ -17,7 +17,7 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: content/project
+  path: content/teaching
   label: Projects
   create: all
   match: "**/*"

@@ -9,8 +9,8 @@ title = "Teaching"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. project.
-  page_type = "project"
+  # Page type to display. E.g. project, teaching.
+  page_type = "teaching"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,16 +26,16 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "York University"
-     tag = "York"
-  
+     name = "Grad"
+     tag = "grad"
+     
    [[content.filter_button]]
-     name = "University of Alberta"
-     tag = "UofA"
+     name = "Undergrad"
+     tag = "undergrad"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List

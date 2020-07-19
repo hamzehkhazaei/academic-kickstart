@@ -1,6 +1,6 @@
 ---
 title: EECS 3221
-summary: Operating System Fundamentals  (Winter 2020)
+summary: Operating System Fundamentals  (W2020, W2021)
 
 tags:
 - undergrad
