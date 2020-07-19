@@ -1,8 +1,10 @@
 ---
 title: EECS 3221
 summary: Operating System Fundamentals  (Winter 2020)
+
 tags:
-- York
+- undergrad
+
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

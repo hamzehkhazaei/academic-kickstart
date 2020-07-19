@@ -1,8 +1,9 @@
 ---
-title: EECS 5XXX
-summary: Distributed Systems  (Fall 2020).
+title: EECS 4XXX
+summary: Distributed Systems  (Fall 2021).
+
 tags:
-- York
+- undergrad
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
