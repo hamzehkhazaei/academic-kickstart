@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "york"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -90,7 +90,7 @@ phone = "(416) 736-2100 x 44233"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "4700 Keele Street", city = "Toronto", region = "ON", postcode = "", country = "Canada", country_code = "CA"}
+address = {street = "2002 Lassonde Building, 4700 Keele Street", city = "Toronto", region = "ON", postcode = "M3J 1P3", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -238,7 +238,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-#[map]
+[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -253,9 +253,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-#  engine = 2
-#  api_key = ""
-#  zoom = 15
+  engine = 1
+  api_key = "AIzaSyCXW-HchvNYe55v49EFcRHWzJSJnEKou2E"
+  zoom = 15
 
 ############################
 ## Marketing

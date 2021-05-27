@@ -1,5 +1,5 @@
 ---
-title: EECS 4XXX
+title: EECS 4222
 summary: Distributed Systems  (TBA).
 
 tags:
