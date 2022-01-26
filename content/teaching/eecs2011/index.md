@@ -14,7 +14,6 @@ image:
   caption: ""
   focal_point: Smart
 ---
-
 This course discusses the fundamental data structures commonly used in the design of algorithms. 
 At the end of this course, students will know the classical data structures, and master the use of abstraction, 
 specification and program construction using modules. Furthermore, students will be able to apply these skills 

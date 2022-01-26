@@ -14,7 +14,6 @@ image:
   caption: ""
   focal_point: Smart
 ---
-
 This course is intended to teach students the fundamental concepts that underlie operating systems, including 
 multiprogramming, concurrent processes, CPU scheduling, deadlocks, memory management, file systems, protection and 
 security. Many examples from real systems are given to illustrate the application of particular concepts. At the end of 
