@@ -1,6 +1,6 @@
 ---
 title: EECS 6446
-summary: Performance Modeling of Computing Systems (W21)
+summary: Performance Modeling of Computing Systems
 
 tags:
 - grad

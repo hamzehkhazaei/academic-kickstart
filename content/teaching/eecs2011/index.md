@@ -1,6 +1,6 @@
 ---
 title: EECS 2011
-summary: Fundamentals of Data Structure (F20, F21)
+summary: Fundamentals of Data Structure
 
 tags:
 - undergrad

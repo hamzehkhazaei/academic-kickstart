@@ -1,6 +1,6 @@
 ---
 title: EECS 3221
-summary: Operating System Fundamentals  (W20, W21, F21)
+summary: Operating System Fundamentals
 
 tags:
 - undergrad

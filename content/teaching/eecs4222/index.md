@@ -1,6 +1,6 @@
 ---
 title: EECS 4222
-summary: Distributed Systems  (TBD).
+summary: Distributed Systems
 
 tags:
 - undergrad

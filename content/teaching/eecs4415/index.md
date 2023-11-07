@@ -1,6 +1,6 @@
 ---
 title: EECS 4415
-summary: Big Data Systems  (W22).
+summary: Big Data Systems
 
 tags:
 - undergrad

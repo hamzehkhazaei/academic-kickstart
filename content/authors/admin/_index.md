@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Electrical Engineering and Computer Science Department  
+role: Associate Professor, Electrical Engineering and Computer Science Department  
         
 
 # Organizations/Affiliations
@@ -23,10 +23,10 @@ bio: My research interests include distributed systems, cloud computing, perform
 
 interests:
 - Cloud Computing
-- Performance Modeling
-- Distributed Systems
-- Autonomic Computing
-- Software Engineering
+- Machine Learning for Systems
+- Systems for Machine Learning 
+- Mathematical Modeling
+
 
 education:
   courses:
@@ -78,13 +78,9 @@ user_groups:
 - BSc Students
 ---
 
-I am an assistant professor of computer science at York University. I lead 
+I am an Associate Professor of computer science at York University. I lead 
 the <a href="https://pacs.eecs.yorku.ca" target="_blank" rel="noopener"><span>Performant and Available 
 Computing Systems (PACS) Lab</span></a> 
 in which we analyze, model and design dependable software systems. If you are a prospective applicant or interested 
 to learn more about my work please check the 
 <a href="https://pacs.eecs.yorku.ca" target="_blank" rel="noopener"><span>PACS Lab</span></a> page.
-
- 
-
-
