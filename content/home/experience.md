@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Toronto, Ontario"
   date_start = "2022-07-01"
   date_end = ""
-  description = """Department of Electrical Engineering and Compute Science."""
+  description = """Department of Electrical Engineering and Computer Science."""
 
 [[experience]]
   title = "Assistant Professor"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Toronto, Ontario"
   date_start = "2019-09-01"
   date_end = "2022-07-01"
-  description = """Department of Electrical Engineering and Compute Science."""
+  description = """Department of Electrical Engineering and Computer Science."""
 
 [[experience]]
   title = "Assistant Professor"
