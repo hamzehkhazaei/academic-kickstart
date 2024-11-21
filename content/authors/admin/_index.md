@@ -19,13 +19,13 @@ organizations:
   url: "https://www.yorku.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, cloud computing, performance modeling and autonomic computing.
+bio: My research interests include distributed systems, cloud computing, mathematical modeling and systems for ML.
 
 interests:
 - Cloud Computing
-- Machine Learning for Systems
-- Systems for Machine Learning 
+- Systems & Machine Learning
 - Mathematical Modeling
+- Distributed Systems
 
 
 education:
@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/HamzehKhazaei
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=n7sDdU8AAAAJ
+  link: https://scholar.google.ca/citations?user=s3tImXEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/hamzehkhazaei
