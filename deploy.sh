@@ -8,7 +8,6 @@ fi
 git add .
 git commit -m "$@"
 git push -u origin master
-
 hugo
 cd ./public
 git add .
