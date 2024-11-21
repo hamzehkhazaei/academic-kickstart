@@ -24,7 +24,7 @@ bio: My research interests include distributed systems, cloud computing, mathema
 interests:
 - Cloud Computing
 - Systems & Machine Learning
-- Mathematical Modeling
+- Mathematical Modelling
 - Distributed Systems
 
 
