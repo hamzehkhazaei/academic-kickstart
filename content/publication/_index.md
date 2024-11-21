@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fpacslab%2Fpublications%2Frefs%2Fheads%2Fmaster%2Fbib%2Fall.bib&commas=true&noBootstrap=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fpacslab%2Fpublications%2Frefs%2Fheads%2Fmaster%2Fbib%2Fall.bib&commas=true&noBootstrap=1&jsonp=1"></script>
