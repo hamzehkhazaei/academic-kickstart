@@ -24,8 +24,8 @@ bio: My research interests include distributed systems, cloud computing, mathema
 interests:
 - Cloud Computing
 - Systems & ML
-- Mathematical Modelling
 - Distributed Systems
+- Mathematical Modelling
 
 
 education:
@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/HamzehKhazaei
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=s3tImXEAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=n7sDdU8AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/hamzehkhazaei
