@@ -54,7 +54,7 @@ social:
   link: https://twitter.com/HamzehKhazaei
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=n7sDdU8AAAAJ
+  link: https://scholar.google.ca/citations?hl=en&user=s3tImXEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/hamzehkhazaei
