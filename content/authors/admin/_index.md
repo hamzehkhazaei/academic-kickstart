@@ -25,7 +25,7 @@ interests:
 - Cloud Computing
 - Systems & ML
 - Distributed Systems
-- Mathematical Modelling
+- Mathematical Modeling
 
 
 
