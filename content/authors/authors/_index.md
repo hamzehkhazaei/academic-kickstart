@@ -78,7 +78,7 @@ user_groups:
 - BSc Students
 ---
 
-I am an Associate Professor of computer science at York University. I lead 
+I am an Associate Professor of computer science at York University. I the director of 
 the <a href="https://pacs.eecs.yorku.ca" target="_blank" rel="noopener"><span>Performant and Available 
 Computing Systems (PACS) Lab</span></a> 
 in which we analyze, model and design dependable software systems. If you are a prospective applicant or interested 
