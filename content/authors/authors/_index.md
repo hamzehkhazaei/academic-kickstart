@@ -19,7 +19,7 @@ organizations:
   url: "https://www.yorku.ca"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, cloud computing, mathematical modeling and systems for ML.
+bio: My research interests include distributed systems, cloud computing, mathematical modelling and systems for ML.
 
 interests:
 - Cloud Computing
